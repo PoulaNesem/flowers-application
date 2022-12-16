@@ -1,2 +1,0 @@
-# flowers-application
-Flowers Application
